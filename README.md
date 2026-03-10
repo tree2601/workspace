@@ -1,2 +1,1 @@
-# ai-api-toolkit
-Templates for calling openai-compatible api, including LLM, VLM, ASR, Embedding, Reranker
+# a playground where I put jupyter notebooks for self-study purposes. 
